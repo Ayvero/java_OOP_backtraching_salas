@@ -8,9 +8,10 @@ Este ejercicio plantea la resolución de un problema donde un conjunto de salas 
 
 Aprendí a modelar problemas de recorrido utilizando grafos dirigidos en Java. Aplicando algoritmos de búsqueda en grafos, como la búsqueda en profundidad (DFS), pude identificar el camino que atraviesa la mayor cantidad de nodos (salas).
 
-### ¿Para Qué Sirve?
+## ¿Para Qué Sirve?
 
 Este ejercicio demuestra mi capacidad para trabajar con grafos, una estructura de datos esencial en muchas áreas como redes de comunicación, planificación y análisis de rutas en mapas, y optimización de procesos.
+
 --------------------------------------------------------------------------------------------------------------------------
 # Maximum Path in a Set of Rooms
 
